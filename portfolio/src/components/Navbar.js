@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import resume_pdf from '../assets/michał_bieniek__FULLSTACK-10M-DAYTIME (3).pdf'
+import resume_pdf from '../assets/cv.pdf'
 const Navbar = () => {
   return (
     <nav className="bg-white fixed w-full z-50">
